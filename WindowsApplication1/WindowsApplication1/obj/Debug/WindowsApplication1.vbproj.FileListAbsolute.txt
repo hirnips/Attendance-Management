@@ -1,0 +1,17 @@
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm2.resources
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.User_Input.resources
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Area_Input.resources
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.InquiryDetails.resources
+D:\OJAN06-B3\VB.Net\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subject_Details.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

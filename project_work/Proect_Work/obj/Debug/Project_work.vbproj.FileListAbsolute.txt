@@ -1,0 +1,237 @@
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\bin\Debug\Proect_Work.exe
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\bin\Debug\Proect_Work.pdb
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\bin\Debug\Proect_Work.xml
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Student_campus.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Project_work.vbproj.GenerateResource.Cache
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.exe
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.xml
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.pdb
+F:\Proect_Work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Student_campus.resources
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+F:\Proect_Work\Proect_Work\obj\Debug\Project_work.vbproj.GenerateResource.Cache
+F:\Proect_Work\Proect_Work\bin\Debug\Proect_Work.exe
+F:\Proect_Work\Proect_Work\bin\Debug\Proect_Work.pdb
+F:\Proect_Work\Proect_Work\bin\Debug\Proect_Work.xml
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.exe
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.xml
+F:\Proect_Work\Proect_Work\obj\Debug\Proect_Work.pdb
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.exe
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.xml
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.pdb
+E:\project_work\Proect_Work\bin\Debug\Proect_Work.exe
+E:\project_work\Proect_Work\bin\Debug\Proect_Work.pdb
+E:\project_work\Proect_Work\bin\Debug\Proect_Work.xml
+E:\project_work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.User_Input.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+E:\project_work\Proect_Work\obj\Debug\Project_work.vbproj.GenerateResource.Cache
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.AttendenceReport.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Input.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Attandance.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Report.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.course_Report.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Marks.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Student_Report.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Report.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.Marks_report.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.exe
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.xml
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.pdb
+F:\project_work\Proect_Work\bin\Debug\Proect_Work.exe
+F:\project_work\Proect_Work\bin\Debug\Proect_Work.pdb
+F:\project_work\Proect_Work\bin\Debug\Proect_Work.xml
+F:\project_work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Input.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Report.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Attandance.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.AttendenceReport.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.course_Report.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Marks.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Marks_report.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Student_Report.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Report.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.User_Input.resources
+F:\project_work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+F:\project_work\Proect_Work\obj\Debug\Project_work.vbproj.GenerateResource.Cache
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.exe
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.xml
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.pdb
+H:\project_work\Proect_Work\bin\Debug\Proect_Work.exe
+H:\project_work\Proect_Work\bin\Debug\Proect_Work.pdb
+H:\project_work\Proect_Work\bin\Debug\Proect_Work.xml
+H:\project_work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Input.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Report.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Attandance.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.AttendenceReport.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.course_Report.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Marks.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Marks_report.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Student_Report.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Report.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.User_Input.resources
+H:\project_work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+H:\project_work\Proect_Work\obj\Debug\Project_work.vbproj.GenerateResource.Cache
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.StudentFeesInput.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.fees.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.FeesReport.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.areacr.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.attendancecr.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.coursecr.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.markscr.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.studentcr.resources
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.subjectcr.resources
+E:\project_work\Proect_Work\bin\Debug\Proect_Work.exe.manifest
+E:\project_work\Proect_Work\bin\Debug\Proect_Work.application
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.exe.manifest
+E:\project_work\Proect_Work\obj\Debug\Proect_Work.application
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.exe
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.xml
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.pdb
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\bin\Debug\Proect_Work.exe.manifest
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\bin\Debug\Proect_Work.application
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\bin\Debug\Proect_Work.exe
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\bin\Debug\Proect_Work.pdb
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\bin\Debug\Proect_Work.xml
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.areacr.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Input.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Report.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Attandance.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.attendancecr.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.AttendenceReport.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.coursecr.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.course_Report.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.fees.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.FeesReport.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Marks.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.markscr.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Marks_report.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.studentcr.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.StudentFeesInput.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Student_Report.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.subjectcr.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Report.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.User_Input.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Project_work.vbproj.GenerateResource.Cache
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.exe.manifest
+E:\E drive\kartik singh\software\vb.net imp folder\project\project_work\Proect_Work\obj\Debug\Proect_Work.application
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.exe
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.xml
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.pdb
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.exe.manifest
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.application
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.exe
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.pdb
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.xml
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.areacr.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Input.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Report.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Attandance.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.attendancecr.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.AttendenceReport.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.coursecr.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.course_Report.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.fees.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.FeesReport.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Marks.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.markscr.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Marks_report.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.studentcr.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.StudentFeesInput.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Student_Report.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.subjectcr.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Report.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.User_Input.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Project_work.vbproj.GenerateResource.Cache
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.exe.manifest
+D:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.application
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.exe
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.xml
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.pdb
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.exe.manifest
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.application
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.exe
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.pdb
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\bin\Debug\Proect_Work.xml
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.areacr.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Input.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Area_Report.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Attandance.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.attendancecr.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.AttendenceReport.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.coursecr.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.course_Report.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.fees.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.FeesReport.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Marks.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.markscr.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Marks_report.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.studentcr.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.StudentFeesInput.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Student_Report.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.subjectcr.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.Subject_Report.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.User_Input.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Project_work.vbproj.GenerateResource.Cache
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.exe.manifest
+E:\OJAN06-B3\Project\Total Projects\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.application
+F:\data0\White Pen Drive Data\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.exe
+F:\data0\White Pen Drive Data\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.xml
+F:\data0\White Pen Drive Data\Kartik SGA PRoject\project_work\Proect_Work\obj\Debug\Proect_Work.pdb

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="Proect_Work.exe" publicKeyToken="b44c366d5992cce0" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="wmp.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Proect_Work" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Proect_Work.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Proect_Work.exe" size="4657664">
+      <assemblyIdentity name="Proect_Work" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>s+SGEcn+LAKEWT8Izhqf1nCeQz8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Photos\a.jpg" size="155986">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>eYegcHidn28TVAG703wdIfyECIk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="wmp.ico" size="113140">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>S+PkIhpCmzR4iLvjY143cnGXTH8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=kartik-PC\kartik" issuerKeyHash="e8e6af217fd28d02060c6daaffd4827e2e03adb8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>/FPJ57yedv5t34wNePNrt1kxBfE=</DigestValue></Reference></SignedInfo><SignatureValue>GyuT+WXhg1AWsvPEiTAgf/IlzrbJRhE2Dt6z3Pq0dBz5dHFuL36MVX3QB5WdNXpBz7P/b610LTa6VNR6v5H8wxS9dpl3SlJUz9K2wfa/FfbuEjb1Zn3635znvfqh+4vRgNhtk1wtw/q9l6Drn8oHFdKCe/BTsLpfkGJnWbsfgHI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sCHpEBylw/0LA0mEL2GofZ9h1anIx/Ep9p+QsCpmT5mzH0PhgZ3wKOie10jG463b/2hmK+ocqTTlsgZM6Q9q02uJpvfC9pCHuZ3X3Cy/5nDGvPfydk1c32MDwSvCumjFlpWH9nI1Lqlg1iq/DfWRnc6GQA2R8F5ll71DtrFXAgc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f1053159b76bf3780d8cdf6dfe769ebce7c953fc" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="Proect_Work.exe" publicKeyToken="b44c366d5992cce0" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=kartik-PC\kartik</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>TxbP7C4O7ILbvnF67GHC1tkGB+U=</DigestValue></Reference></SignedInfo><SignatureValue>FeVZgOZ1nwS2FcKvXgNCxRFFZxRMWTuFRcuwkKjfVSh2wYdwUcYhdFesX226wOhLmnhofk6hU26EnVrUmOCgA/vun398mQu7XgVDmVy+UpEiCVw5/1LSmxm++drEazsIZVBz7qS4nJmaKhf8wSvoIi1XfdtCCddyMskp66cGq2E=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sCHpEBylw/0LA0mEL2GofZ9h1anIx/Ep9p+QsCpmT5mzH0PhgZ3wKOie10jG463b/2hmK+ocqTTlsgZM6Q9q02uJpvfC9pCHuZ3X3Cy/5nDGvPfydk1c32MDwSvCumjFlpWH9nI1Lqlg1iq/DfWRnc6GQA2R8F5ll71DtrFXAgc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQbIjJxUAQi69PZUNmuQT4yjANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAAawBhAHIAdABpAGsALQBQAEMAXABrAGEAcgB0AGkAazAeFw0xMTAzMDUwNzI4MDFaFw0xMjAzMDQxMzI4MDFaMCsxKTAnBgNVBAMeIABrAGEAcgB0AGkAawAtAFAAQwBcAGsAYQByAHQAaQBrMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwIekQHKXD/QsDSYQvYah9n2HVqcjH8Sn2n5CwKmZPmbMfQ+GBnfAo6J7XSMbjrdv/aGYr6hypNOWyBkzpD2rTa4mm98L2kIe5ndfcLL/mcMa89/J2TVzfYwPBK8K6aMWWlYf2cjUuqWDWKr8N9ZGdzoZADZHwXmWXvUO2sVcCBwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAIse4jfVGCEn+n1rb45vIRbMycSKsY/vukt2Wo9oXZoqH2uPcbEs1TVY0yLNOiNZBJJh91VvJec+TApTBmVisTsJGOEYl2y2f/XdbVS3hC+DeIUli21bX9sS+7BxQMOtJ1YgREMdll+9HTjGzlOMAydMNMFLe35iFeS+EPxLxFwN</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

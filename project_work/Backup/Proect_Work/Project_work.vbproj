@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0F09E7FE-561F-4522-9F89-E27EA6C01B31}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proect_Work.LoginForm2</StartupObject>
+    <RootNamespace>Proect_Work</RootNamespace>
+    <AssemblyName>Proect_Work</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <ApplicationIcon>wmp.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>F3768B818697DEA2B0A0B5F18C9DD9D37E30D905</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Project_work_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proect_Work.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proect_Work.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="areacr.Designer.vb">
+      <DependentUpon>areacr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="areacr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="areacrystal.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>areacrystal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Area_Input.Designer.vb">
+      <DependentUpon>Area_Input.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Area_Input.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Area_Report.Designer.vb">
+      <DependentUpon>Area_Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Area_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attandance.Designer.vb">
+      <DependentUpon>Attandance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Attandance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="attendancecr.Designer.vb">
+      <DependentUpon>attendancecr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="attendancecr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="attendancecrystal.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>attendancecrystal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AttendenceReport.Designer.vb">
+      <DependentUpon>AttendenceReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AttendenceReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="coursecr.Designer.vb">
+      <DependentUpon>coursecr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="coursecr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="coursecrystal.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>coursecrystal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Course_Input.Designer.vb">
+      <DependentUpon>Course_Input.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Course_Input.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="course_Report.Designer.vb">
+      <DependentUpon>course_Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="course_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees.Designer.vb">
+      <DependentUpon>fees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeesReport.Designer.vb">
+      <DependentUpon>FeesReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FeesReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm2.Designer.vb">
+      <DependentUpon>LoginForm2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marks.Designer.vb">
+      <DependentUpon>Marks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Marks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="markscr.Designer.vb">
+      <DependentUpon>markscr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="markscr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="markscrystal.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>markscrystal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Marks_report.Designer.vb">
+      <DependentUpon>Marks_report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Marks_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI.Designer.vb">
+      <DependentUpon>MDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="MyModule.vb" />
+    <Compile Include="studentcr.Designer.vb">
+      <DependentUpon>studentcr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="studentcr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentcrystal.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>studentcrystal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="StudentFeesInput.Designer.vb">
+      <DependentUpon>StudentFeesInput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentFeesInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student_master.Designer.vb">
+      <DependentUpon>student_master.vb</DependentUpon>
+    </Compile>
+    <Compile Include="student_master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Report.Designer.vb">
+      <DependentUpon>Student_Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subjectcr.Designer.vb">
+      <DependentUpon>subjectcr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="subjectcr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subjectcrystal.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>subjectcrystal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Subject_Details.Designer.vb">
+      <DependentUpon>Subject_Details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Subject_Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Subject_Report.Designer.vb">
+      <DependentUpon>Subject_Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Subject_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Input.Designer.vb">
+      <DependentUpon>User_Input.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User_Input.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\ConstantsAndEnums.vb" />
+    <Compile Include="Utility\GenericCollection.vb" />
+    <Compile Include="Utility\Globals.vb" />
+    <Compile Include="Utility\KeyedCollection.vb" />
+    <Compile Include="Utility\SqlServer.vb" />
+    <Compile Include="welcome.Designer.vb">
+      <DependentUpon>welcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="welcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="areacr.resx">
+      <DependentUpon>areacr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="areacrystal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>areacrystal.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Area_Input.resx">
+      <DependentUpon>Area_Input.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Area_Report.resx">
+      <DependentUpon>Area_Report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attandance.resx">
+      <DependentUpon>Attandance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="attendancecr.resx">
+      <DependentUpon>attendancecr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="attendancecrystal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>attendancecrystal.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttendenceReport.resx">
+      <DependentUpon>AttendenceReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="coursecr.resx">
+      <DependentUpon>coursecr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="coursecrystal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>coursecrystal.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course_Input.resx">
+      <DependentUpon>Course_Input.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="course_Report.resx">
+      <DependentUpon>course_Report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees.resx">
+      <DependentUpon>fees.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeesReport.resx">
+      <DependentUpon>FeesReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm2.resx">
+      <DependentUpon>LoginForm2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marks.resx">
+      <DependentUpon>Marks.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="markscr.resx">
+      <DependentUpon>markscr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="markscrystal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>markscrystal.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marks_report.resx">
+      <DependentUpon>Marks_report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI.resx">
+      <DependentUpon>MDI.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentcr.resx">
+      <DependentUpon>studentcr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentcrystal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>studentcrystal.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentFeesInput.resx">
+      <DependentUpon>StudentFeesInput.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student_master.resx">
+      <DependentUpon>student_master.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Report.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Student_Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subjectcr.resx">
+      <DependentUpon>subjectcr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subjectcrystal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>subjectcrystal.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subject_Details.resx">
+      <DependentUpon>Subject_Details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subject_Report.resx">
+      <DependentUpon>Subject_Report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Input.resx">
+      <DependentUpon>User_Input.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome.resx">
+      <DependentUpon>welcome.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\akshay.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-back-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-next-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-previous-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CANCEL.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DELETE.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heart_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heart_VideoInset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MI1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MI2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationLeft_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationRight_ButtonGraphic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationRight_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationUp_ButtonGraphic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationUp_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NEW.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NextMenuButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notes_btn-back-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OK.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ParentMenuButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pets_btn-back-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pets_btn-next-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pets_btn-previous-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PreviousMenuButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recycle Bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SAVE.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wmpnss_color120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="Project_work_TemporaryKey.pfx" />
+    <None Include="Resources\Backgound1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Photos\a.jpg" />
+    <Content Include="wmp.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

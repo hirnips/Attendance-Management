@@ -1,0 +1,32 @@
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\bin\Debug\Proect_Work.exe
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\bin\Debug\Proect_Work.pdb
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\bin\Debug\Proect_Work.xml
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.vbproj.GenerateResource.Cache
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.exe
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.xml
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.pdb
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Student_campus.resources
+C:\Users\AKSHAY\Documents\Visual Studio 2008\Projects\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.exe
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.xml
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.pdb
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\bin\Debug\Proect_Work.exe
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\bin\Debug\Proect_Work.pdb
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\bin\Debug\Proect_Work.xml
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Course_Input.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.LoginForm2.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.MDI.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Resources.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Student_campus.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.STUDENT_MASTER.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.Subject_Details.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.welcome.resources
+C:\Users\Bhagyesh\Desktop\Proect_Work\Proect_Work\obj\Debug\Proect_Work.vbproj.GenerateResource.Cache

@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{52AC3C35-E815-4FF3-A9C6-CE807BF678BC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>WindowsApplication1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Area_Input.designer.vb">
+      <DependentUpon>Area_Input.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Area_Input.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InquiryDetails.Designer.vb">
+      <DependentUpon>InquiryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InquiryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm2.Designer.vb">
+      <DependentUpon>LoginForm2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="MyModule.vb" />
+    <Compile Include="Subject_Details.designer.vb">
+      <DependentUpon>Subject_Details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Subject_Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Input.designer.vb">
+      <DependentUpon>User_Input.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User_Input.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\ConstantsAndEnums.vb" />
+    <Compile Include="Utility\GenericCollection.vb" />
+    <Compile Include="Utility\Globals.vb" />
+    <Compile Include="Utility\KeyedCollection.vb" />
+    <Compile Include="Utility\SqlServer.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Area_Input.resx">
+      <DependentUpon>Area_Input.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InquiryDetails.resx">
+      <DependentUpon>InquiryDetails.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm2.resx">
+      <DependentUpon>LoginForm2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subject_Details.resx">
+      <DependentUpon>Subject_Details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Input.resx">
+      <DependentUpon>User_Input.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\akshay.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BACK1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BACK2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backgound.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backgound1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_search_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-back-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-next-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-previous-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CANCEL.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_16_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DELETE.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_over.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDIT.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDIT_IMG.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heart_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heart_VideoInset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hint_over.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light_red.dll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGIN_01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MI1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MI2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nav_rightarrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nav_uparrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationLeft_ButtonGraphic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationLeft_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationRight_ButtonGraphic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationRight_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationUp_ButtonGraphic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavigationUp_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NEW.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NextMenuButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notes_btn-back-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OK.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ParentMenuButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passportcover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Peace.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pets_btn-back-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pets_btn-next-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pets_btn-over-DOT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pets_btn-previous-static.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PreviousMenuButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recycle Bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SAVE.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpecialNavigationLeft_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpecialNavigationRight_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpecialNavigationUp_SelectionSubpicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SPLACE1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\superbar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timer_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wmpnss_bw48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wmpnss_color120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg3.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
